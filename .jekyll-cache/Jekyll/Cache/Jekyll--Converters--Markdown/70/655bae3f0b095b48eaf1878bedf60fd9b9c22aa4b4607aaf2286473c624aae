@@ -1,0 +1,213 @@
+I"�<h1 id="publications">Publications</h1>
+
+<!-- ## Highlights
+
+(For a full list see [below](#full-list) or go to [Google Scholar](https://scholar.google.com/citations?user=-LJCZMMAAAAJ&hl=en), [ResearcherID](https://www.researcherid.com/rid/D-7763-2012))
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<p> &nbsp; </p>
+ -->
+
+<h2 id="full-list">Full List</h2>
+
+<h4 id="preprints--submissions">Preprints &amp; Submissions</h4>
+
+<p>Dual Grid Networks <br />
+  <em>C. Wan, T. Probst, L. Van Gool and A. Yao </em><br /><a href="https://arxiv.org/abs/1907.10695">arXiv preprint arXiv:1907.10695, 2019</a></p>
+
+<p>“Fourier RNNs for sequence prediction and analysis” <br />
+  <em>M. Wolter and A. Yao </em><br /><a href="https://www.nature.com/articles/s41586-019-1408-8">arXiv preprint: 1812.05645, 2018</a></p>
+
+<h4 id="journal-articles">Journal Articles</h4>
+
+<p>“Deep morphological networks” <br />
+  <em>G. Franchi, A. Fehri and A. Yao </em><br /><a href="https://www.nature.com/articles/s41586-019-1408-8">Pattern Recognition Letters, to appear, accepted 24.10.2019</a></p>
+
+<p>“A two-streamed network for estimating fine-scaled depth maps from single RGB images” <br />
+  <em>J. Li, C. Yuce, R. Klein and A. Yao </em><br /><a href="https://www.nature.com/articles/s41586-019-1408-8">Computer Vision and Image Understanding (CVIU), 186: 25-36, 2019</a></p>
+
+<p>“Efficient unsupervised tem- poral segmentation of motion data” <br />
+  <em>B. Krüger, A. Vögele, T. Willig, A. Yao, R. Klein and A. Weber </em><br /><a href="https://www.nature.com/articles/s41586-019-1408-8">IEEE Transactions on Multimedia (TMM), 19(4):797– 812, 2017</a></p>
+
+<p>“Superpixel optimization using higher-order energy” <br />
+  <em>J. Peng, J. Shen, A. Yao and X. Li </em><br /><a href="https://www.nature.com/articles/s41586-019-1408-8">IEEE Transactions on Circuits and Systems for Video Technology (TCSVT), 26(5):917–927, 2016</a></p>
+
+<p>“Coupled action recognition and pose estimation from multiple views” <br />
+  <em>A. Yao, J. Gall and L. Van Gool </em><br /><a href="https://www.nature.com/articles/s41586-019-1408-8">International Journal of Computer Vision (IJCV), 100(1):16–37, 2012</a></p>
+
+<p>“Hough forests for object detec- tion, tracking and action recognition” <br />
+  <em>J. Gall, A. Yao, N. Razavi, L. Van Gool and V. Lempitsky </em><br /><a href="https://www.nature.com/articles/s41586-019-1408-8">IEEE Transactions on Pattern Analysis and Machine Intelligence (TPAMI), 33(11):2188 – 2202, 2011</a></p>
+
+<p>“Colour aids late but not early stages of rapid natural scene recognition” <br />
+  <em>A.Y.J. Yao and W. Einhäuser </em><br /><a href="https://www.nature.com/articles/s41586-019-1408-8">Journal of Vision (JOV), 8(16):12, 1-13, 2008</a></p>
+
+<h4 id="refereed-conference-proceedings">Refereed Conference Proceedings</h4>
+
+<p>Zero-Shot Anticipation for Instructional Activities <br />
+  <em>F. Sener and A. Yao </em><br /><a href="">International Conference on Computer Vision (ICCV) 2019</a></p>
+
+<p>Aligning Latent Spaces for 3D Hand Pose Estimation <br />
+  <em>L. Yang, S. Li, D. Lee and A. Yao </em><br /><a href="">International Conference on Computer Vision (ICCV) 2019</a></p>
+
+<p>Localized interactive instance segmentation <br />
+  <em>S. Majumder and A. Yao </em><br /><a href="">German Conference on Pattern Recognition (GCPR) 2019</a></p>
+
+<p>“Scale-aware multi-level guidance for interactive instance segmentation” <br />
+  <em>S. Majumder and A. Yao </em><br /><a href="">IEEE Conference on Computer Vision and Pattern Recognition (CVPR) 2019</a></p>
+
+<p>“Self-supervised 3D hand pose estimation through training by fitting” <br />
+  <em>C. Wan, T. Probst, L. Van Gool and A. Yao </em><br /><a href="">IEEE Conference on Computer Vision and Pattern Recog- nition (CVPR) 2019 (oral)</a></p>
+
+<p>“Disentangling latent hands for image synthesis and pose estima- tion” <br />
+  <em>L. Yang and A. Yao </em><br /><a href="">IEEE Conference on Computer Vision and Pattern Recognition (CVPR) 2019</a></p>
+
+<p>“Gated complex recurrent neural networks”, <br />
+  <em>M. Wolter and A. Yao. </em><br /><a href="">Neural Information Processing Systems (NIPS) 2018</a></p>
+
+<p>“Learning style compatibility for furniture” <br />
+  <em>D. Aggarwal, E. Valiyev, F. Sener and A. Yao </em><br /><a href="">German Conference on Pattern Recognition (GCPR) 2018</a></p>
+
+<p>“Supervised deep Kriging for single-image super- resolution” <br />
+  <em>G. Franchi, A. Yao and A. Kolb </em><br /><a href="">German Conference on Pattern Recognition (GCPR) 2018 (oral)</a></p>
+
+<p>“Unsupervised discovery and segmentation of complex activities” <br />
+  <em>F. Sener and A. Yao. </em><br /><a href="">IEEE Conference on Computer Vision and Pattern Recognition (CVPR) 2018 (spotlight)</a></p>
+
+<p>“Dense 3D regression for hand pose estima- tion” <br />
+  <em>C. Wan, T. Probst, L. Van Gool and A. Yao </em><br /><a href="">IEEE Conference on Computer Vision and Pattern Recognition (CVPR) 2018</a></p>
+
+<p>“A two-streamed network for estimating fine-scaled depth maps from single RGB images” <br />
+  <em>J. Li, R. Klein and A. Yao </em><br /><a href="">International Conference on Computer Vision (ICCV) 2017</a></p>
+
+<p>“Data-driven synthesis of hand grasps from 3D object models” <br />
+  <em>S. Majumder, H. Chen and A. Yao </em><br /><a href="">International Symposium on Vision, Modelling, and Visualization (VMV) 2017</a></p>
+
+<p>Crossing nets: Combining GANs and VAEs with a Shared Latent Space for Hand Pose Estimation <br />
+  <em>C. Wan, T. Probst, L. Van Gool and A. Yao </em><br /><a href="">IEEE Conference on Computer Vision and Pattern Recognition (CVPR) 2017 (spotlight)</a></p>
+
+<p>“Hand pose estimation from local surface normals” <br />
+  <em>C. Wan, A. Yao and L. Van Gool </em><br /><a href="">European Conference on Computer Vision (ECCV) 2016</a></p>
+
+<p>“Gesture recognition portfolios for personalization” <br />
+  <em>A. Yao, L. Van Gool and P. Kohli </em><br /><a href="">IEEE Conference on Computer Vision and Pattern Recognition (CVPR) 2014</a></p>
+
+<p>“Interactive object detection” <br />
+  <em>A. Yao, J. Gall, C. Leistner and L. Van Gool </em><br /><a href="">IEEE Conference on Computer Vision and Pattern Recognition (CVPR) 2012</a></p>
+
+<p>“Learning probabilistic non-linear latent variable models for tracking complex activities”, <br />
+  <em>A. Yao, J. Gall, L. Van Gool and R. Urtasun </em><br /><a href="">Neural Information Processing Systems (NIPS) 2011</a></p>
+
+<p>“Does human action recognition benefit from pose estimation?” <br />
+  <em>A. Yao, J. Gall, G. Fanelli and L. Van Gool </em><br /><a href="">British Machine Vision Conference (BMVC) 2011.</a></p>
+
+<p>“2D action recognition serves 3D human pose estimation” <br />
+  <em>J. Gall, A. Yao and L. Van Gool </em><br /><a href="">European Conference on Computer Vision (ECCV) 2010</a></p>
+
+<p>“Tracking in broadcast sports” <br />
+  <em>A. Yao, D. Uebersax, J. Gall and L. Van Gool </em><br /><a href="">German Conference for Pattern Recognition (GCPR) 2010</a></p>
+
+<p>“A Hough transform-based voting framework for action recognition” <br />
+  <em>A. Yao, J. Gall and L. Van Gool </em><br /><a href="">IEEE Conference on Computer Vision and Pattern Recognition (CVPR) 2010</a></p>
+
+<h4 id="refereed-workshop-proceedings">Refereed Workshop Proceedings</h4>
+
+<p>“Hough forest-based facial expression recognition from video sequences” <br />
+  <em>G. Fanelli, A. Yao, P.L. Noel, J. Gall and L. Van Gool </em><br /><a href="https://www.nature.com/articles/s41586-019-1408-8">International Workshop on Sign, Gesture and Activity (SGA) at ECCV, 2010</a></p>
+
+<p>“Variations of a Hough-voting action recognition system” <br />
+  <em>D. Waltisberg, A. Yao, J. Gall and L. Van Gool </em><br /><a href="https://www.nature.com/articles/s41586-019-1408-8">Proceedings of the International Conference on Pattern Recognition (ICPR) Contests, 2010</a></p>
+
+:ET
